@@ -9,4 +9,4 @@
 <li>Material App, Cupertino, Fluent UI</li>
 </ul>
 <h4>About me:</h4>
-<p>Very motivated person, have knowledge with Android since December 2019. Flutter since July 2021.</p>
+<p>Very motivated person known with Flutter since December 2021.</p>
