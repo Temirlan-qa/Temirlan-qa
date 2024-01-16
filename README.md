@@ -1,3 +1,10 @@
-### Hi there 👋
+### Currently Flutter developer.
+## Stack:
+  MV patterns(MVP,MVVM,MVC,MVI)
+  Flutter
+  Design patterns, Clean Architecture, KISS, DRY, SOLID
+  Dart
+  Hive, Dio, BLoC, Riverpod, Cubit, Drift
 
-I'm Temirlan from Kazakhstan, and I do mobile applications. I enjoy learning languages and frameworks like Dart, Flutter, or Python, as well as working in Flutter.
+About me:
+Very motivated person, have knowledge with Android since December 2019. Flutter since July 2021.
