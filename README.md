@@ -5,7 +5,7 @@
 <li>Flutter</li>
 <li>Design patterns, Clean Architecture, KISS, DRY, SOLID</li>
 <li>Dart</li>
-<li>Hive, MinIO, Dio, BLoC, Riverpod, Cubit, Drift</li>
+<li>Drift, Hive, MinIO, Dio, BLoC, Riverpod, Cubit</li>
 <li>Material App, Cupertino, Fluent UI</li>
 </ul>
 <h4>About me:</h4>
