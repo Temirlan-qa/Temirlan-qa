@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **algorithm and data structure**
 
-- 👨‍💻 All of my work experiences are available on [Linkedin](https://www.linkedin.com/in/temirlan-ayazbek/)
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/10RI9D6JQjs3YbwqzWtI8u1d39akx3h72P9IsFwecysI/edit?usp=drive_link) [Linkedin](https://www.linkedin.com/in/temirlan-ayazbek/)
 
-- 💬 Ask me about **Dart, Flutter and cross-platform app development**
+- 💬 Ask me about **Dart, Flutter, and cross-platform app development**
 
 - 📫 How to reach me **temirlanaazbek@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/10RI9D6JQjs3YbwqzWtI8u1d39akx3h72P9IsFwecysI/edit?usp=drive_link](https://docs.google.com/document/d/10RI9D6JQjs3YbwqzWtI8u1d39akx3h72P9IsFwecysI/edit?usp=drive_link)
 
 - ⚡ Fun fact **"Did you know? I once coded an entire mobile application while sipping coffee upside down... just kidding, but I do love a good coding session with a side of caffeine! ☕💻 #CodeAndCoffee"**
 
