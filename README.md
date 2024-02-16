@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Temirlan</h1>
 <h3 align="center">A passionate Flutter developer from Kazakhstan</h3>
 
-- 🔭 I’m currently Middle Flutter Developer at [Kaztechinnovations](https://www.kti.kz/)
+- 🔭 I’m currently a Middle Flutter Developer at [Kaztechinnovations](https://www.kti.kz/)
 
 - 🌱 I’m currently learning **algorithm and data structure**
 
-- 👯 I’m looking to collaborate on [123312313](https://github.com/Temirlan-qa/mugalim2.0)
-
-- 🤝 I’m looking for help with [213312313](https://github.com/Temirlan-qa/mugalim2.0)
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/temirlan-ayazbek/](https://www.linkedin.com/in/temirlan-ayazbek/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/temirlan-ayazbek/](https://www.linkedin.com/in/temirlan-ayazbek/)
+- 👨‍💻 All of my work experiences are available on [Linkedin](https://www.linkedin.com/in/temirlan-ayazbek/)
 
 - 💬 Ask me about **Dart, Flutter and cross-platform app development**
 
