@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Temirlan</h1>
-<h3 align="center">A passionate flutter developer from Kazakhstan</h3>
+<h3 align="center">A passionate Flutter developer from Kazakhstan</h3>
 
 - 🔭 I’m currently working on [123312313](https://github.com/Temirlan-qa/mugalim2.0)
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/temirlan-ayazbek/](https://www.linkedin.com/in/temirlan-ayazbek/)
 
-- 💬 Ask me about **dart, flutter and cross-platform app development**
+- 💬 Ask me about **Dart, Flutter and cross-platform app development**
 
 - 📫 How to reach me **temirlanaazbek@gmail.com**
 
