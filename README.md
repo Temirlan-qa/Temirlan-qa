@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Temirlan</h1>
 <h3 align="center">A passionate Flutter developer from Kazakhstan</h3>
 
-- 🔭 I’m currently working on [123312313](https://github.com/Temirlan-qa/mugalim2.0)
+- 🔭 I’m currently Middle Flutter Developer at [Kaztechinnovations](https://www.kti.kz/)
 
 - 🌱 I’m currently learning **algorithm and data structure**
 
