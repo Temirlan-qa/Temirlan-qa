@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently a Middle Flutter Developer at [Kaztechinnovations](https://www.kti.kz/)
 
-- 🌱 I’m currently learning **algorithm and data structure**
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/10RI9D6JQjs3YbwqzWtI8u1d39akx3h72P9IsFwecysI/edit?usp=drive_link) | [Linkedin](https://www.linkedin.com/in/temirlan-ayazbek/)
 
-- 📄 Know about my experiences [CV](https://docs.google.com/document/d/10RI9D6JQjs3YbwqzWtI8u1d39akx3h72P9IsFwecysI/edit?usp=drive_link) [Linkedin](https://www.linkedin.com/in/temirlan-ayazbek/)
+- 🌱 I’m currently learning **algorithm and data structure**
 
 - 💬 Ask me about **Dart, Flutter, and cross-platform app development**
 
