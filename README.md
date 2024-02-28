@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 </h1>
+<h1 >Hi there 👋 </h1>
 <h2 align="center">My name is Temirlan and I am glad you are visiting my profile now! </h2>
 <h3 align="center">A passionate Flutter developer from Kazakhstan</h3>
 
