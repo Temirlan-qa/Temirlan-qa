@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Temirlan</h1>
+<h1 align="center">My name is Temirlan and I am gald your are visiting my profile now! </h1>
 <h3 align="center">A passionate Flutter developer from Kazakhstan</h3>
 
 - 🔭 I’m currently a Middle Flutter Developer at [Kaztechinnovations](https://www.kti.kz/)
