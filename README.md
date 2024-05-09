@@ -1,7 +1,7 @@
 <h2 align="center">My name is Temirlan and I am glad you are visiting my profile now! </h2>
 <h3 align="center">A passionate Flutter Software Engineer from Kazakhstan</h3>
 
-- 🔭 I’m currently a Flutter Software Engineer at [Kaztechinnovations](https://www.kti.kz/)
+- 🔭 I’m currently a Software Engineer at [Kaztechinnovations](https://www.kti.kz/)
 
 - 📄 Know about my experiences [CV](https://docs.google.com/document/d/10RI9D6JQjs3YbwqzWtI8u1d39akx3h72P9IsFwecysI/edit?usp=drive_link) | [Linkedin](https://www.linkedin.com/in/temirlan-ayazbek/)
 
