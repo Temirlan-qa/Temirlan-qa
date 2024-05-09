@@ -1,5 +1,5 @@
 <h2 align="center">My name is Temirlan and I am glad you are visiting my profile now! </h2>
-<h3 align="center">A passionate Flutter Software Engineer from Kazakhstan</h3>
+<h3 align="center">A passionate Software Engineer from Kazakhstan</h3>
 
 - 🔭 I’m currently a Software Engineer at [Kaztechinnovations](https://www.kti.kz/)
 
