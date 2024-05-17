@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ayazbektemirlan@gmail.com**
 
-- 📄 Know about my experiences [CV](https://docs.google.com/document/d/10RI9D6JQjs3YbwqzWtI8u1d39akx3h72P9IsFwecysI/edit?usp=drive_link) | [Linkedin](https://www.linkedin.com/in/temirlan-ayazbek/)
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1psMtqPJIGpbwb4kEM40yiY2OqF9LAJYNPUzcTdjEi2U/edit?usp=sharing) | [Linkedin](https://www.linkedin.com/in/temirlan-ayazbek/)
 
 - ⚡ Fun fact **"Did you know? I once coded an entire mobile application while sipping coffee upside down... just kidding, but I do love a good coding session with a side of caffeine! ☕💻 #CodeAndCoffee"**
 
